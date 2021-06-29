@@ -1,0 +1,2 @@
+rootProject.name = "Heatlh app mlh"
+include ':app'
